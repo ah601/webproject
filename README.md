@@ -1,4 +1,5 @@
-🚀 Fullstack Web Project
+🚀 Fullstack Web Projects
+
 A modern fullstack web applications built with fullstack tech — delivering seamless user experiences with a functional backend.
 
 🧰 Tech Stack
